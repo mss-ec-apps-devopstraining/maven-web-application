@@ -32,7 +32,7 @@
                 <!-- <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>b197963ccf44196e87bf63fe479a1f71ab972cb5</sonar.login>
                     <sonar.organization>mss-ec-apps-devopstraining</sonar.organization> --> 
-		<sonar.host.url>http://3.7.65.183:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.157.139:9000//</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -100,12 +100,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.69.37:8081/repository/facebook-release/</url>
+	      <url>http://13.233.16.134:8081/repository/facebook-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.69.37:8081/repository/facebook-snapshot/</url>
+	      <url>http://13.233.16.134:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
